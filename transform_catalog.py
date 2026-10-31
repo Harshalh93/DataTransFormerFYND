@@ -471,6 +471,7 @@ def transform_catalog(
         tax_rule_name = resolve_tax_rule(row.get("GST_PCT", "5"))
         category_name = resolve_category(item_name, row.get("CATEGORY_TXT", ""))
         seller_sku = f"{code}-{attrs['size']}"
+        primary_sku = f"{code}-{attrs['size']}"
 
         # Initialize all 104 columns in exact OutPut_Format.xlsx sequence
         fynd_record = {col: None for col in OUTPUT_HEADERS}
@@ -492,8 +493,8 @@ def transform_catalog(
             "Media": clean_string(row.get("MEDIA_URL", "")) or None,
             "Multi Size": "No",
             "Gtin Type": "SKU",
-            "Gtin Value": code,
-            "Seller Identifier": seller_sku,
+            "Gtin Value": primary_sku,
+            "Seller Identifier": primary_sku,
             "Size": attrs["size"],
             "Actual Price": mrp_val,
             "Selling Price": mrp_val,
@@ -536,7 +537,7 @@ def transform_catalog(
         transformed_rows.append(fynd_record)
         sync_audit_rows.append({
             "Item Code": code,
-            "Seller Identifier": seller_sku,
+            "Seller Identifier": primary_sku,
             "Sync Action": sync_action,
             "Idempotency Hash": row_hash,
         })
