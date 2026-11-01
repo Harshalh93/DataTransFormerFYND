@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@gofynd/fdk-client-javascript": "^3.36.0",
+    "xlsx": "^0.18.5"
+  }
+}

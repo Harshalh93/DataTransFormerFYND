@@ -1,0 +1,422 @@
+LEGACY_ITM_CD,ITM_DESC_MAIN,BRAND_TXT,FREE_TXT_SPEC,MRP_STR,UOM_CD,HSN_SAC_CD,GST_PCT,OLD_FOXPRO_FLAG,TEMP_PATCH_2018
+TF-SKU-1001,  assam orthodox black tea  ,Himalayan Brew,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs 399,Pcs,09024020,18,, NULL 
+TF-SKU-1002,  darjeeling first flush loose tea  ,Gourmet Crumb,250g | Tin Caddy | Color: Gold | Pack of 1,Rs 650,pcs ,09022020,5,,MIG_OK
+TF-SKU-1003,DARJEELING FIRST FLUSH LOOSE TEA ,HIMALAYAN BREW,250g | Tin Caddy | Color: Gold | Pack of 1,₹650/-,Pcs,09022020,5,, NULL 
+TF-SKU-1004, Chamomile Honey Herbal Tisane   ,Teafields Reserve,150g Box Color: Yellow Pack of 3,  399 ,Pcs,21069099,18,1,MIG_OK
+TF-SKU-1005,ORGANIC WILD FOREST HONEY ,Teafields Reserve,500g Glass Bottle Color: Amber Pack of 1,INR 899,Pcs,04090000,12,1,
+TF-SKU-1006,CHAMOMILE HONEY HERBAL TISANE ,Himalayan Brew,150g Box Color: Yellow Pack of 3,INR 399,GM,21069099,18,N,0
+TF-SKU-1007,Double Wall Borosilicate Infuser Mug,Gourmet Crumb,Size: Large 350ml Color: Clear Pack of 2,"Rs. 1,250.00",EA,70134200,5,1,
+TF-SKU-1008,  earl grey bergamot infusion  ,gourmet crumb ,50 Pyramid Bags (125g) Color: Blue Pack of 1,  1250 ,pcs ,09023020,18,,0
+TF-SKU-1009,EARL GREY BERGAMOT INFUSION ,Gourmet Crumb,50 Pyramid Bags (125g) Color: Blue Pack of 1,  1499 ,Kgs,09023020,5,N,
+TF-SKU-1010,  assam orthodox black tea  ,TEAFIELDS RESERVE,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  1499 ,pcs ,09024020,18,,MIG_OK
+TF-SKU-1011,  artisanal almond biscotti  ,  teafields reserve ,300g Pack of 1 Color: Beige,₹899/-,Pcs,19053100,12,,0
+TF-SKU-1012,  double wall borosilicate infuser mug  ,himalayan brew  ,Size: Large 350ml Color: Clear Pack of 2,Rs. 450.00,KG,70134200,18,LEGACY_99,0
+TF-SKU-1013, Nilgiri Frost Green Tea   ,Gourmet Crumb,"100g, Zipper Bag, Color: Green, Pack of 1",  250 ,PCS,09021090,5,1,MIG_OK
+TF-SKU-1014,  masala chai spice blend  ,gourmet crumb ,200g / Glass Jar / Color: Red / Pack of 1,Rs. 399.00,GM,09109100,5,N,
+TF-SKU-1015,ARTISANAL ALMOND BISCOTTI ,gourmet crumb ,300g Pack of 1 Color: Beige,INR 650,KG,19053100,12,1,
+TF-SKU-1016,Artisanal Almond Biscotti,Himalayan Brew,300g Pack of 1 Color: Beige,Rs. 650.00,Pcs,,18,Y,0
+TF-SKU-1017,  assam orthodox black tea  ,  teafields reserve ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,INR 899,GM,09024020,5,LEGACY_99,
+TF-SKU-1018,Masala Chai Spice Blend,Himalayan Brew,200g / Glass Jar / Color: Red / Pack of 1,  1499 , Nos,09109100,18,Y, NULL 
+TF-SKU-1019,Darjeeling First Flush Loose Tea,  teafields reserve ,250g | Tin Caddy | Color: Gold | Pack of 1,INR 650,pcs ,09022020,5,1,
+TF-SKU-1020,  masala chai spice blend  ,Gourmet Crumb,200g / Glass Jar / Color: Red / Pack of 1,INR 250,NOS,09109100,12,,
+TF-SKU-1021,Masala Chai Spice Blend,TEAFIELDS RESERVE,200g / Glass Jar / Color: Red / Pack of 1,  1499 ,KG,09109100,12,LEGACY_99,
+TF-SKU-1022,NILGIRI FROST GREEN TEA ,Teafields Reserve,"100g, Zipper Bag, Color: Green, Pack of 1",Rs. 250.00,PCS,09021090,18,,0
+TF-SKU-1023,  darjeeling first flush loose tea  ,  teafields reserve ,250g | Tin Caddy | Color: Gold | Pack of 1,Rs 650,EA,09022020,18,LEGACY_99, NULL 
+TF-SKU-1024,  organic wild forest honey  ,gourmet crumb ,500g Glass Bottle Color: Amber Pack of 1,"INR 1,250",Kgs,04090000,5,1,
+TF-SKU-1025, Nilgiri Frost Green Tea   ,  teafields reserve ,"100g, Zipper Bag, Color: Green, Pack of 1",INR 399,GM,   ,12,N,MIG_OK
+TF-SKU-1026,ASSAM ORTHODOX BLACK TEA ,TEAFIELDS RESERVE,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs 899,PCS,09024020,18,LEGACY_99,MIG_OK
+TF-SKU-1027,ASSAM ORTHODOX BLACK TEA ,  teafields reserve ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs 450,EA,09024020,18,1,0
+TF-SKU-1028,Earl Grey Bergamot Infusion,Teafields Reserve,50 Pyramid Bags (125g) Color: Blue Pack of 1,"Rs. 1,499.00",PCS,09023020,12,N,MIG_OK
+TF-SKU-1029,Nilgiri Frost Green Tea,Artisan Leaf,"100g, Zipper Bag, Color: Green, Pack of 1",INR 399,GM,09021090,5,1,0
+TF-SKU-1030,CAST IRON JAPANESE TEAPOT ,,Size: Medium | 800ml | Color: Matte Black | Pack of 1,INR 250,EA,73239190,18,Y,MIG_OK
+TF-SKU-1031,Artisanal Almond Biscotti,TEAFIELDS RESERVE,300g Pack of 1 Color: Beige,INR 650,pcs ,19053100,5,N,MIG_OK
+TF-SKU-1032,CAST IRON JAPANESE TEAPOT ,  teafields reserve ,Size: Medium | 800ml | Color: Matte Black | Pack of 1,INR 250,EA,73239190,12,1,MIG_OK
+TF-SKU-1033,MASALA CHAI SPICE BLEND ,   ,200g / Glass Jar / Color: Red / Pack of 1,₹899/-,Kgs,09109100,18,LEGACY_99,
+TF-SKU-1034, Artisanal Almond Biscotti   ,  teafields reserve ,300g Pack of 1 Color: Beige,₹899/-,PCS,19053100,5,LEGACY_99,
+TF-SKU-1035, Chamomile Honey Herbal Tisane   ,Gourmet Crumb,150g Box Color: Yellow Pack of 3,  650 ,PCS,21069099,18,LEGACY_99,0
+TF-SKU-1036,Chamomile Honey Herbal Tisane,HIMALAYAN BREW,150g Box Color: Yellow Pack of 3,₹399/-,GM,21069099,12,,MIG_OK
+TF-SKU-1037, Cast Iron Japanese Teapot   ,Himalayan Brew,Size: Medium | 800ml | Color: Matte Black | Pack of 1,"INR 1,499",Gms,73239190,18,1,
+TF-SKU-1038,  artisanal almond biscotti  ,Himalayan Brew,300g Pack of 1 Color: Beige,  1250 ,EA,19053100,18,,0
+TF-SKU-1039, Assam Orthodox Black Tea   ,gourmet crumb ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,INR 650,EA,09024020,5,Y, NULL 
+TF-SKU-1040,Masala Chai Spice Blend,  teafields reserve ,200g / Glass Jar / Color: Red / Pack of 1,  650 , Nos,09109100,12,N,0
+TF-SKU-1041,  darjeeling first flush loose tea  ,Himalayan Brew,250g | Tin Caddy | Color: Gold | Pack of 1,"INR 2,100",Pcs,09022020,12,N,
+TF-SKU-1042, Artisanal Almond Biscotti   , artisan leaf,300g Pack of 1 Color: Beige,Rs 1499, Nos,19053100,5,,
+TF-SKU-1043,EARL GREY BERGAMOT INFUSION ,himalayan brew  ,50 Pyramid Bags (125g) Color: Blue Pack of 1,"₹2,100/-", Nos,09023020,5,1,0
+TF-SKU-1044, Earl Grey Bergamot Infusion   ,Gourmet Crumb,50 Pyramid Bags (125g) Color: Blue Pack of 1,INR 650,EA,,5,,
+TF-SKU-1045,Chamomile Honey Herbal Tisane,Himalayan Brew,150g Box Color: Yellow Pack of 3,Rs 1499,PCS,21069099,18,,
+TF-SKU-1046, Darjeeling First Flush Loose Tea   ,Artisan Leaf,250g | Tin Caddy | Color: Gold | Pack of 1,Rs 1499,Gms,09022020,5,,0
+TF-SKU-1047,Earl Grey Bergamot Infusion,Artisan Leaf,50 Pyramid Bags (125g) Color: Blue Pack of 1,  1499 ,NOS,09023020,18,LEGACY_99, NULL 
+TF-SKU-1048,  cast iron japanese teapot  ,Artisan Leaf,Size: Medium | 800ml | Color: Matte Black | Pack of 1,"₹2,100/-",pcs ,73239190,12,N,
+TF-SKU-1049, Chamomile Honey Herbal Tisane   ,Artisan Leaf,150g Box Color: Yellow Pack of 3,"Rs. 1,499.00", Nos,21069099,5,LEGACY_99, NULL 
+TF-SKU-1050,CHAMOMILE HONEY HERBAL TISANE ,Teafields Reserve,150g Box Color: Yellow Pack of 3,Rs. 650.00,Gms,21069099,5,N,0
+TF-SKU-1051,  double wall borosilicate infuser mug  ,Himalayan Brew,Size: Large 350ml Color: Clear Pack of 2,INR 899,Gms,70134200,18,Y,0
+TF-SKU-1052,  earl grey bergamot infusion  ,himalayan brew  ,50 Pyramid Bags (125g) Color: Blue Pack of 1,"INR 1,499",Pcs,09023020,18,N, NULL 
+TF-SKU-1053,  earl grey bergamot infusion  ,gourmet crumb ,50 Pyramid Bags (125g) Color: Blue Pack of 1,"₹1,250/-",Pcs,09023020,18,1, NULL 
+TF-SKU-1054,Cast Iron Japanese Teapot,HIMALAYAN BREW,Size: Medium | 800ml | Color: Matte Black | Pack of 1,  2100 ,NOS,73239190,18,LEGACY_99,MIG_OK
+TF-SKU-1055,Organic Wild Forest Honey,gourmet crumb ,500g Glass Bottle Color: Amber Pack of 1,Rs. 650.00,KG,04090000,12,N,
+TF-SKU-1056,Organic Wild Forest Honey, artisan leaf,500g Glass Bottle Color: Amber Pack of 1,₹450/-,KG,04090000,12,1,MIG_OK
+TF-SKU-1057,  artisanal almond biscotti  ,Himalayan Brew,300g Pack of 1 Color: Beige,"INR 1,499", Nos,19053100,18,,
+TF-SKU-1058,  darjeeling first flush loose tea  ,Artisan Leaf,250g | Tin Caddy | Color: Gold | Pack of 1,₹899/-, Nos,09022020,18,LEGACY_99,MIG_OK
+TF-SKU-1059, Cast Iron Japanese Teapot   , artisan leaf,Size: Medium | 800ml | Color: Matte Black | Pack of 1,INR 899,Kgs,73239190,5,LEGACY_99,0
+TF-SKU-1060,MASALA CHAI SPICE BLEND ,himalayan brew  ,200g / Glass Jar / Color: Red / Pack of 1,INR 899,KG,09109100,5,1,0
+TF-SKU-1061,  earl grey bergamot infusion  ,TEAFIELDS RESERVE,50 Pyramid Bags (125g) Color: Blue Pack of 1,INR 250, Nos,09023020,5,Y,MIG_OK
+TF-SKU-1062,Double Wall Borosilicate Infuser Mug,TEAFIELDS RESERVE,Size: Large 350ml Color: Clear Pack of 2,  899 ,Pcs,70134200,5,,
+TF-SKU-1063,  assam orthodox black tea  ,gourmet crumb ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs. 399.00,GM,09024020,12,LEGACY_99,0
+TF-SKU-1064,Artisanal Almond Biscotti, artisan leaf,300g Pack of 1 Color: Beige,Rs 1499,PCS,19053100,18,Y,0
+TF-SKU-1065, Masala Chai Spice Blend   ,TEAFIELDS RESERVE,200g / Glass Jar / Color: Red / Pack of 1,  399 , Nos,09109100,18,LEGACY_99,
+TF-SKU-1066,  earl grey bergamot infusion  ,himalayan brew  ,50 Pyramid Bags (125g) Color: Blue Pack of 1,"INR 2,100",KG,09023020,18,LEGACY_99,0
+TF-SKU-1067,  cast iron japanese teapot  ,TEAFIELDS RESERVE,Size: Medium | 800ml | Color: Matte Black | Pack of 1,INR 450,KG,73239190,18,LEGACY_99,MIG_OK
+TF-SKU-1068,  double wall borosilicate infuser mug  ,himalayan brew  ,Size: Large 350ml Color: Clear Pack of 2,  899 , Nos,70134200,5,LEGACY_99, NULL 
+TF-SKU-1069, Cast Iron Japanese Teapot   ,Teafields Reserve,Size: Medium | 800ml | Color: Matte Black | Pack of 1,₹250/-,Gms,73239190,5,N,
+TF-SKU-1070,Artisanal Almond Biscotti,TEAFIELDS RESERVE,300g Pack of 1 Color: Beige,  1499 ,Pcs,19053100,12,1,
+TF-SKU-1071, Chamomile Honey Herbal Tisane   ,TEAFIELDS RESERVE,150g Box Color: Yellow Pack of 3,  2100 ,GM,21069099,5,, NULL 
+TF-SKU-1072, Chamomile Honey Herbal Tisane   ,Artisan Leaf,150g Box Color: Yellow Pack of 3,Rs 250, Nos,21069099,12,Y,0
+TF-SKU-1073, Artisanal Almond Biscotti   , artisan leaf,300g Pack of 1 Color: Beige,Rs 250,NOS,19053100,12,,
+TF-SKU-1074,  assam orthodox black tea  ,gourmet crumb ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs. 450.00,GM,09024020,12,Y,0
+TF-SKU-1075,Assam Orthodox Black Tea,TEAFIELDS RESERVE,500 GM - Kraft Pouch - Color: Brown - Pack of 2,₹899/-,pcs ,09024020,12,,0
+TF-SKU-1076,DOUBLE WALL BOROSILICATE INFUSER MUG ,gourmet crumb ,Size: Large 350ml Color: Clear Pack of 2,₹450/-,pcs ,70134200,12,LEGACY_99,MIG_OK
+TF-SKU-1077, Darjeeling First Flush Loose Tea   ,gourmet crumb ,250g | Tin Caddy | Color: Gold | Pack of 1,  2100 ,GM,09022020,12,1,MIG_OK
+TF-SKU-1078,Artisanal Almond Biscotti,HIMALAYAN BREW,300g Pack of 1 Color: Beige,INR 650,pcs ,19053100,5,1,
+TF-SKU-1079,Cast Iron Japanese Teapot,TEAFIELDS RESERVE,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 250,Kgs,73239190,5,, NULL 
+TF-SKU-1080,Artisanal Almond Biscotti,   ,300g Pack of 1 Color: Beige,₹450/-,Kgs,19053100,18,, NULL 
+TF-SKU-1081,Chamomile Honey Herbal Tisane, artisan leaf,150g Box Color: Yellow Pack of 3,INR 250,KG,21069099,5,Y,
+TF-SKU-1082,  assam orthodox black tea  ,himalayan brew  ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs. 250.00,KG,09024020,12,1,
+TF-SKU-1083,NILGIRI FROST GREEN TEA ,gourmet crumb ,"100g, Zipper Bag, Color: Green, Pack of 1",Rs. 450.00,Gms,09021090,12,LEGACY_99,0
+TF-SKU-1084,DOUBLE WALL BOROSILICATE INFUSER MUG ,himalayan brew  ,Size: Large 350ml Color: Clear Pack of 2,  250 ,KG,70134200,18,LEGACY_99,0
+TF-SKU-1085,Assam Orthodox Black Tea,gourmet crumb ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  1499 ,KG,09024020,5,,
+TF-SKU-1086,ASSAM ORTHODOX BLACK TEA ,HIMALAYAN BREW,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  899 ,KG,09024020,5,LEGACY_99, NULL 
+TF-SKU-1087,Organic Wild Forest Honey,himalayan brew  ,500g Glass Bottle Color: Amber Pack of 1,₹650/-,EA,04090000,18,N,MIG_OK
+TF-SKU-1088,  nilgiri frost green tea  ,Teafields Reserve,"100g, Zipper Bag, Color: Green, Pack of 1","₹2,100/-",NOS,09021090,5,1,MIG_OK
+TF-SKU-1089,CAST IRON JAPANESE TEAPOT ,Gourmet Crumb,Size: Medium | 800ml | Color: Matte Black | Pack of 1,"₹1,250/-",NOS,73239190,12,,MIG_OK
+TF-SKU-1090,  chamomile honey herbal tisane  ,  teafields reserve ,150g Box Color: Yellow Pack of 3,  650 ,GM,21069099,12,Y,
+TF-SKU-1091, Darjeeling First Flush Loose Tea   , artisan leaf,250g | Tin Caddy | Color: Gold | Pack of 1,₹899/-,Pcs,09022020,18,N,
+TF-SKU-1092, Darjeeling First Flush Loose Tea   ,Himalayan Brew,250g | Tin Caddy | Color: Gold | Pack of 1,"₹2,100/-",pcs ,09022020,5,N, NULL 
+TF-SKU-1093, Darjeeling First Flush Loose Tea   ,  teafields reserve ,250g | Tin Caddy | Color: Gold | Pack of 1,₹450/-,GM,09022020,12,LEGACY_99,0
+TF-SKU-1094,  cast iron japanese teapot  ,gourmet crumb ,Size: Medium | 800ml | Color: Matte Black | Pack of 1,₹899/-,EA,73239190,12,,0
+TF-SKU-1095,  chamomile honey herbal tisane  ,HIMALAYAN BREW,150g Box Color: Yellow Pack of 3,"₹1,250/-",EA,21069099,5,, NULL 
+TF-SKU-1096,  masala chai spice blend  ,HIMALAYAN BREW,200g / Glass Jar / Color: Red / Pack of 1,INR 450,Pcs,09109100,18,N,0
+TF-SKU-1097, Masala Chai Spice Blend   ,gourmet crumb ,200g / Glass Jar / Color: Red / Pack of 1,INR 450,Pcs,,18,Y,0
+TF-SKU-1098, Darjeeling First Flush Loose Tea   ,Himalayan Brew,250g | Tin Caddy | Color: Gold | Pack of 1,Rs. 250.00,NOS,09022020,18,, NULL 
+TF-SKU-1099,Assam Orthodox Black Tea,HIMALAYAN BREW,500 GM - Kraft Pouch - Color: Brown - Pack of 2,INR 399,Gms,09024020,5,LEGACY_99,MIG_OK
+TF-SKU-1100,  double wall borosilicate infuser mug  , artisan leaf,Size: Large 350ml Color: Clear Pack of 2,  1499 , Nos,70134200,5,Y,MIG_OK
+TF-SKU-1101,ORGANIC WILD FOREST HONEY ,himalayan brew  ,500g Glass Bottle Color: Amber Pack of 1,Rs 1250,GM,04090000,12,,
+TF-SKU-1102,  assam orthodox black tea  ,Gourmet Crumb,500 GM - Kraft Pouch - Color: Brown - Pack of 2,INR 650,pcs ,09024020,12,,
+TF-SKU-1103,  cast iron japanese teapot  ,HIMALAYAN BREW,Size: Medium | 800ml | Color: Matte Black | Pack of 1,  1250 ,Pcs,73239190,5,Y, NULL 
+TF-SKU-1104,  cast iron japanese teapot  ,HIMALAYAN BREW,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 250,GM,73239190,12,Y,
+TF-SKU-1105,Chamomile Honey Herbal Tisane,Teafields Reserve,150g Box Color: Yellow Pack of 3,Rs 899,GM,21069099,5,N,
+TF-SKU-1106,  masala chai spice blend  ,Gourmet Crumb,200g / Glass Jar / Color: Red / Pack of 1,  899 ,GM,09109100,18,LEGACY_99, NULL 
+TF-SKU-1107, Organic Wild Forest Honey   ,,500g Glass Bottle Color: Amber Pack of 1,₹899/-,PCS,04090000,5,N,
+TF-SKU-1108,ASSAM ORTHODOX BLACK TEA ,Teafields Reserve,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  650 ,Kgs,09024020,5,1,MIG_OK
+TF-SKU-1109,  chamomile honey herbal tisane  ,TEAFIELDS RESERVE,150g Box Color: Yellow Pack of 3,₹250/-, Nos,21069099,18,,
+TF-SKU-1110,Organic Wild Forest Honey,Himalayan Brew,500g Glass Bottle Color: Amber Pack of 1,Rs. 399.00,KG,04090000,18,LEGACY_99,
+TF-SKU-1111, Artisanal Almond Biscotti   ,Artisan Leaf,300g Pack of 1 Color: Beige,,KG,19053100,5,N,MIG_OK
+TF-SKU-1112, Earl Grey Bergamot Infusion   , artisan leaf,50 Pyramid Bags (125g) Color: Blue Pack of 1,Rs 450,EA,09023020,18,LEGACY_99,MIG_OK
+TF-SKU-1113,Assam Orthodox Black Tea,Teafields Reserve,500 GM - Kraft Pouch - Color: Brown - Pack of 2,"₹2,100/-",Gms,09024020,12,LEGACY_99,
+TF-SKU-1114, Cast Iron Japanese Teapot   ,Teafields Reserve,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 450, Nos,73239190,18,1, NULL 
+TF-SKU-1115,  cast iron japanese teapot  ,gourmet crumb ,Size: Medium | 800ml | Color: Matte Black | Pack of 1,₹399/-,Kgs,73239190,5,1,0
+TF-SKU-1116,  assam orthodox black tea  ,Himalayan Brew,500 GM - Kraft Pouch - Color: Brown - Pack of 2,"INR 1,250",EA,09024020,5,N,MIG_OK
+TF-SKU-1117,MASALA CHAI SPICE BLEND ,  teafields reserve ,200g / Glass Jar / Color: Red / Pack of 1,Rs 2100,Gms,09109100,12,LEGACY_99,MIG_OK
+TF-SKU-1118,CHAMOMILE HONEY HERBAL TISANE , artisan leaf,150g Box Color: Yellow Pack of 3,Rs 899,PCS,21069099,12,LEGACY_99, NULL 
+TF-SKU-1119,Earl Grey Bergamot Infusion,Teafields Reserve,50 Pyramid Bags (125g) Color: Blue Pack of 1,Rs. 899.00,Gms,09023020,18,LEGACY_99,
+TF-SKU-1120,  double wall borosilicate infuser mug  ,gourmet crumb ,Size: Large 350ml Color: Clear Pack of 2,Rs 1250,NOS,70134200,5,, NULL 
+TF-SKU-1121,  chamomile honey herbal tisane  ,TEAFIELDS RESERVE,150g Box Color: Yellow Pack of 3,Rs 2100,GM,   ,18,N,MIG_OK
+TF-SKU-1122, Chamomile Honey Herbal Tisane   ,HIMALAYAN BREW,150g Box Color: Yellow Pack of 3,₹250/-,Pcs,21069099,12,Y,
+TF-SKU-1123, Earl Grey Bergamot Infusion   ,gourmet crumb ,50 Pyramid Bags (125g) Color: Blue Pack of 1,"INR 1,250",Kgs,09023020,12,,0
+TF-SKU-1124,  organic wild forest honey  ,Artisan Leaf,500g Glass Bottle Color: Amber Pack of 1,Rs 1250,Pcs,04090000,18,,MIG_OK
+TF-SKU-1125, Darjeeling First Flush Loose Tea   ,Himalayan Brew,250g | Tin Caddy | Color: Gold | Pack of 1,"INR 2,100",NOS,09022020,5,1, NULL 
+TF-SKU-1126,  artisanal almond biscotti  ,gourmet crumb ,300g Pack of 1 Color: Beige,"INR 1,499",Gms,19053100,5,, NULL 
+TF-SKU-1127, Cast Iron Japanese Teapot   ,Himalayan Brew,Size: Medium | 800ml | Color: Matte Black | Pack of 1,  899 ,EA,73239190,18,N,MIG_OK
+TF-SKU-1128,DOUBLE WALL BOROSILICATE INFUSER MUG ,gourmet crumb ,Size: Large 350ml Color: Clear Pack of 2,  2100 ,GM,70134200,18,,0
+TF-SKU-1129,MASALA CHAI SPICE BLEND ,Teafields Reserve,200g / Glass Jar / Color: Red / Pack of 1,"Rs. 1,250.00",GM,09109100,5,1, NULL 
+TF-SKU-1130, Nilgiri Frost Green Tea   ,Gourmet Crumb,"100g, Zipper Bag, Color: Green, Pack of 1","INR 1,499", Nos,09021090,12,Y,
+TF-SKU-1131,Darjeeling First Flush Loose Tea,Himalayan Brew,250g | Tin Caddy | Color: Gold | Pack of 1,Rs. 399.00,Kgs,09022020,5,1,0
+TF-SKU-1132,  nilgiri frost green tea  , artisan leaf,"100g, Zipper Bag, Color: Green, Pack of 1",  450 , Nos,09021090,18,Y, NULL 
+TF-SKU-1133, Darjeeling First Flush Loose Tea   ,TEAFIELDS RESERVE,250g | Tin Caddy | Color: Gold | Pack of 1,"₹1,499/-",EA,09022020,12,Y, NULL 
+TF-SKU-1134,Masala Chai Spice Blend,gourmet crumb ,200g / Glass Jar / Color: Red / Pack of 1,  399 ,Gms,09109100,18,Y,0
+TF-SKU-1135, Nilgiri Frost Green Tea   ,gourmet crumb ,"100g, Zipper Bag, Color: Green, Pack of 1","Rs. 1,499.00",GM,09021090,12,Y, NULL 
+TF-SKU-1136,Cast Iron Japanese Teapot,Artisan Leaf,Size: Medium | 800ml | Color: Matte Black | Pack of 1,₹899/-,Pcs,73239190,12,N, NULL 
+TF-SKU-1137, Organic Wild Forest Honey   ,HIMALAYAN BREW,500g Glass Bottle Color: Amber Pack of 1,  450 , Nos,04090000,18,N,0
+TF-SKU-1138,Assam Orthodox Black Tea,   ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,₹250/-,GM,,12,LEGACY_99,
+TF-SKU-1139,  earl grey bergamot infusion  ,Himalayan Brew,50 Pyramid Bags (125g) Color: Blue Pack of 1,₹250/-,KG,09023020,5,1,
+TF-SKU-1140,Cast Iron Japanese Teapot,Artisan Leaf,Size: Medium | 800ml | Color: Matte Black | Pack of 1,  450 ,Kgs,73239190,18,1, NULL 
+TF-SKU-1141,  cast iron japanese teapot  ,TEAFIELDS RESERVE,Size: Medium | 800ml | Color: Matte Black | Pack of 1,"₹1,250/-",KG,73239190,12,,
+TF-SKU-1142,Nilgiri Frost Green Tea,Teafields Reserve,"100g, Zipper Bag, Color: Green, Pack of 1",  1250 ,KG,09021090,18,Y, NULL 
+TF-SKU-1143, Cast Iron Japanese Teapot   ,TEAFIELDS RESERVE,Size: Medium | 800ml | Color: Matte Black | Pack of 1,  450 ,PCS,73239190,5,Y,0
+TF-SKU-1144, Chamomile Honey Herbal Tisane   ,gourmet crumb ,150g Box Color: Yellow Pack of 3,"₹2,100/-", Nos,,5,LEGACY_99,0
+TF-SKU-1145, Artisanal Almond Biscotti   ,himalayan brew  ,300g Pack of 1 Color: Beige,INR 399, Nos,19053100,18,, NULL 
+TF-SKU-1146, Earl Grey Bergamot Infusion   ,Himalayan Brew,50 Pyramid Bags (125g) Color: Blue Pack of 1,  899 ,EA,09023020,5,N, NULL 
+TF-SKU-1147,DOUBLE WALL BOROSILICATE INFUSER MUG , artisan leaf,Size: Large 350ml Color: Clear Pack of 2,"Rs. 1,250.00",GM,70134200,18,1,MIG_OK
+TF-SKU-1148,NILGIRI FROST GREEN TEA ,Gourmet Crumb,"100g, Zipper Bag, Color: Green, Pack of 1",INR 650, Nos,09021090,5,1,MIG_OK
+TF-SKU-1149,DOUBLE WALL BOROSILICATE INFUSER MUG ,  teafields reserve ,Size: Large 350ml Color: Clear Pack of 2,  2100 ,Gms,,5,N,MIG_OK
+TF-SKU-1150,Assam Orthodox Black Tea,Gourmet Crumb,500 GM - Kraft Pouch - Color: Brown - Pack of 2,INR 450,pcs ,09024020,18,Y, NULL 
+TF-SKU-1151,ARTISANAL ALMOND BISCOTTI ,TEAFIELDS RESERVE,300g Pack of 1 Color: Beige,Rs 650,KG,19053100,5,1,0
+TF-SKU-1152, Artisanal Almond Biscotti   ,himalayan brew  ,300g Pack of 1 Color: Beige,INR 399,Gms,19053100,18,N,0
+TF-SKU-1153, Organic Wild Forest Honey   ,gourmet crumb ,500g Glass Bottle Color: Amber Pack of 1,Rs 399,KG,,18,N,
+TF-SKU-1154,  organic wild forest honey  ,Gourmet Crumb,500g Glass Bottle Color: Amber Pack of 1,  899 ,KG,04090000,12,Y, NULL 
+TF-SKU-1155,Nilgiri Frost Green Tea, artisan leaf,"100g, Zipper Bag, Color: Green, Pack of 1",₹450/-,Kgs,09021090,12,N,MIG_OK
+TF-SKU-1156,  artisanal almond biscotti  , artisan leaf,300g Pack of 1 Color: Beige,"Rs. 2,100.00",PCS,19053100,12,,
+TF-SKU-1157,MASALA CHAI SPICE BLEND ,gourmet crumb ,200g / Glass Jar / Color: Red / Pack of 1,  650 ,GM,09109100,12,,MIG_OK
+TF-SKU-1158,  double wall borosilicate infuser mug  ,Artisan Leaf,Size: Large 350ml Color: Clear Pack of 2,₹650/-,PCS,70134200,5,1,
+TF-SKU-1159,Organic Wild Forest Honey,Teafields Reserve,500g Glass Bottle Color: Amber Pack of 1,"₹1,499/-",Kgs,04090000,12,1, NULL 
+TF-SKU-1160,  cast iron japanese teapot  ,Himalayan Brew,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 899, Nos,73239190,18,1, NULL 
+TF-SKU-1161,  nilgiri frost green tea  ,HIMALAYAN BREW,"100g, Zipper Bag, Color: Green, Pack of 1","INR 1,250",Gms,09021090,18,, NULL 
+TF-SKU-1162,  darjeeling first flush loose tea  ,HIMALAYAN BREW,250g | Tin Caddy | Color: Gold | Pack of 1,Rs 2100,NOS,09022020,12,LEGACY_99,MIG_OK
+TF-SKU-1163,Nilgiri Frost Green Tea,himalayan brew  ,"100g, Zipper Bag, Color: Green, Pack of 1","₹2,100/-", Nos,09021090,5,1,MIG_OK
+TF-SKU-1164,Assam Orthodox Black Tea,Teafields Reserve,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs 899,Gms,09024020,5,Y,
+TF-SKU-1165,Nilgiri Frost Green Tea,Himalayan Brew,"100g, Zipper Bag, Color: Green, Pack of 1",  399 ,Kgs,   ,12,N,
+TF-SKU-1166,Masala Chai Spice Blend,gourmet crumb ,200g / Glass Jar / Color: Red / Pack of 1,Rs 250,EA,09109100,18,1,
+TF-SKU-1167,Artisanal Almond Biscotti,TEAFIELDS RESERVE,300g Pack of 1 Color: Beige,"₹1,250/-",Gms,19053100,12,N,0
+TF-SKU-1168, Earl Grey Bergamot Infusion   ,himalayan brew  ,50 Pyramid Bags (125g) Color: Blue Pack of 1,  650 ,Kgs,09023020,12,1,MIG_OK
+TF-SKU-1169,  earl grey bergamot infusion  ,Gourmet Crumb,50 Pyramid Bags (125g) Color: Blue Pack of 1,"INR 1,499",KG,09023020,5,1, NULL 
+TF-SKU-1170,Chamomile Honey Herbal Tisane, artisan leaf,150g Box Color: Yellow Pack of 3,₹899/-,NOS,21069099,5,LEGACY_99,0
+TF-SKU-1171,  masala chai spice blend  ,Gourmet Crumb,200g / Glass Jar / Color: Red / Pack of 1,  650 ,Kgs,09109100,18,, NULL 
+TF-SKU-1172,  nilgiri frost green tea  ,TEAFIELDS RESERVE,"100g, Zipper Bag, Color: Green, Pack of 1","INR 2,100",KG,09021090,12,1, NULL 
+TF-SKU-1173,ASSAM ORTHODOX BLACK TEA ,Teafields Reserve,500 GM - Kraft Pouch - Color: Brown - Pack of 2,INR 450,PCS,09024020,12,,0
+TF-SKU-1174,  earl grey bergamot infusion  ,,50 Pyramid Bags (125g) Color: Blue Pack of 1,Rs 1250,GM,09023020,12,N,
+TF-SKU-1175,EARL GREY BERGAMOT INFUSION ,HIMALAYAN BREW,50 Pyramid Bags (125g) Color: Blue Pack of 1,"INR 2,100",PCS,09023020,18,1,MIG_OK
+TF-SKU-1176,ORGANIC WILD FOREST HONEY ,Artisan Leaf,500g Glass Bottle Color: Amber Pack of 1,"Rs. 1,250.00",NOS,04090000,5,,MIG_OK
+TF-SKU-1177,  masala chai spice blend  ,Himalayan Brew,200g / Glass Jar / Color: Red / Pack of 1,₹899/-,Gms,09109100,18,LEGACY_99, NULL 
+TF-SKU-1178, Earl Grey Bergamot Infusion   ,Teafields Reserve,50 Pyramid Bags (125g) Color: Blue Pack of 1,  2100 ,GM,09023020,18,1, NULL 
+TF-SKU-1179, Earl Grey Bergamot Infusion   ,Himalayan Brew,50 Pyramid Bags (125g) Color: Blue Pack of 1,Rs 2100,Kgs,09023020,12,LEGACY_99,
+TF-SKU-1180,ARTISANAL ALMOND BISCOTTI ,gourmet crumb ,300g Pack of 1 Color: Beige,Rs 399,Kgs,19053100,5,LEGACY_99, NULL 
+TF-SKU-1181,DARJEELING FIRST FLUSH LOOSE TEA ,TEAFIELDS RESERVE,250g | Tin Caddy | Color: Gold | Pack of 1,"INR 2,100",Gms,09022020,12,Y,
+TF-SKU-1182,Darjeeling First Flush Loose Tea,Artisan Leaf,250g | Tin Caddy | Color: Gold | Pack of 1,₹250/-,PCS,09022020,12,1, NULL 
+TF-SKU-1183,  masala chai spice blend  ,HIMALAYAN BREW,200g / Glass Jar / Color: Red / Pack of 1,Rs. 250.00, Nos,09109100,5,1,
+TF-SKU-1184,NILGIRI FROST GREEN TEA ,Artisan Leaf,"100g, Zipper Bag, Color: Green, Pack of 1",  1499 ,pcs ,09021090,5,LEGACY_99,0
+TF-SKU-1185,  chamomile honey herbal tisane  ,Gourmet Crumb,150g Box Color: Yellow Pack of 3,INR 450,PCS,21069099,5,1,
+TF-SKU-1186,Artisanal Almond Biscotti,Himalayan Brew,300g Pack of 1 Color: Beige,"INR 1,250",Pcs,19053100,5,, NULL 
+TF-SKU-1187,MASALA CHAI SPICE BLEND ,gourmet crumb ,200g / Glass Jar / Color: Red / Pack of 1,Rs. 250.00,pcs ,   ,12,N,0
+TF-SKU-1188,DARJEELING FIRST FLUSH LOOSE TEA ,himalayan brew  ,250g | Tin Caddy | Color: Gold | Pack of 1,"₹1,250/-",EA,09022020,12,N,0
+TF-SKU-1189, Cast Iron Japanese Teapot   ,Gourmet Crumb,Size: Medium | 800ml | Color: Matte Black | Pack of 1,  450 ,GM,73239190,12,Y,MIG_OK
+TF-SKU-1190, Cast Iron Japanese Teapot   ,Artisan Leaf,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 1499, Nos,73239190,5,N,MIG_OK
+TF-SKU-1191,Nilgiri Frost Green Tea,Gourmet Crumb,"100g, Zipper Bag, Color: Green, Pack of 1","INR 1,499",pcs ,09021090,5,1,0
+TF-SKU-1192,  chamomile honey herbal tisane  ,HIMALAYAN BREW,150g Box Color: Yellow Pack of 3,  650 ,Gms,21069099,18,Y, NULL 
+TF-SKU-1193,MASALA CHAI SPICE BLEND ,HIMALAYAN BREW,200g / Glass Jar / Color: Red / Pack of 1,INR 250,Pcs,09109100,18,,0
+TF-SKU-1194,ORGANIC WILD FOREST HONEY ,Himalayan Brew,500g Glass Bottle Color: Amber Pack of 1,Rs 899,Kgs,04090000,12,1,MIG_OK
+TF-SKU-1195,Artisanal Almond Biscotti, artisan leaf,300g Pack of 1 Color: Beige,"₹1,250/-",Kgs,19053100,12,Y,0
+TF-SKU-1196,  nilgiri frost green tea  ,gourmet crumb ,"100g, Zipper Bag, Color: Green, Pack of 1","INR 1,499",Kgs,09021090,5,,0
+TF-SKU-1197, Double Wall Borosilicate Infuser Mug   , artisan leaf,Size: Large 350ml Color: Clear Pack of 2,"₹2,100/-",NOS,70134200,5,LEGACY_99,
+TF-SKU-1198,  nilgiri frost green tea  ,  teafields reserve ,"100g, Zipper Bag, Color: Green, Pack of 1",  250 ,NOS,09021090,18,N, NULL 
+TF-SKU-1199,  nilgiri frost green tea  , artisan leaf,"100g, Zipper Bag, Color: Green, Pack of 1","Rs. 2,100.00",PCS,09021090,18,LEGACY_99,
+TF-SKU-1200,  darjeeling first flush loose tea  ,himalayan brew  ,250g | Tin Caddy | Color: Gold | Pack of 1,  899 ,NOS,09022020,5,Y,0
+TF-SKU-1201,MASALA CHAI SPICE BLEND ,himalayan brew  ,200g / Glass Jar / Color: Red / Pack of 1,Rs. 899.00,Kgs,09109100,12,,0
+TF-SKU-1202, Masala Chai Spice Blend   ,  teafields reserve ,200g / Glass Jar / Color: Red / Pack of 1,  250 ,pcs ,09109100,18,, NULL 
+TF-SKU-1203,DARJEELING FIRST FLUSH LOOSE TEA ,Artisan Leaf,250g | Tin Caddy | Color: Gold | Pack of 1,"Rs. 1,250.00",GM,09022020,5,N,0
+TF-SKU-1204,Organic Wild Forest Honey,  teafields reserve ,500g Glass Bottle Color: Amber Pack of 1,Rs 899,PCS,04090000,5,1, NULL 
+TF-SKU-1205,MASALA CHAI SPICE BLEND ,Artisan Leaf,200g / Glass Jar / Color: Red / Pack of 1,INR 899,Gms,09109100,12,LEGACY_99,MIG_OK
+TF-SKU-1206,CAST IRON JAPANESE TEAPOT ,  teafields reserve ,Size: Medium | 800ml | Color: Matte Black | Pack of 1,  1250 ,EA,73239190,5,1,
+TF-SKU-1207,  chamomile honey herbal tisane  , artisan leaf,150g Box Color: Yellow Pack of 3,  1250 ,pcs ,21069099,5,LEGACY_99,
+TF-SKU-1208, Assam Orthodox Black Tea   ,  teafields reserve ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,INR 450,pcs ,09024020,12,1, NULL 
+TF-SKU-1209,  assam orthodox black tea  , artisan leaf,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs. 899.00,NOS,09024020,12,,
+TF-SKU-1210,  assam orthodox black tea  ,Gourmet Crumb,500 GM - Kraft Pouch - Color: Brown - Pack of 2,"Rs. 1,250.00",KG,09024020,12,, NULL 
+TF-SKU-1211,ARTISANAL ALMOND BISCOTTI ,TEAFIELDS RESERVE,300g Pack of 1 Color: Beige,₹450/-,KG,19053100,12,N, NULL 
+TF-SKU-1212,Nilgiri Frost Green Tea,himalayan brew  ,"100g, Zipper Bag, Color: Green, Pack of 1",INR 399, Nos,09021090,18,LEGACY_99,0
+TF-SKU-1213,  double wall borosilicate infuser mug  ,Teafields Reserve,Size: Large 350ml Color: Clear Pack of 2,  1250 ,Kgs,70134200,12,1,
+TF-SKU-1214,ORGANIC WILD FOREST HONEY ,gourmet crumb ,500g Glass Bottle Color: Amber Pack of 1,INR 650,pcs ,04090000,12,1,
+TF-SKU-1215,ORGANIC WILD FOREST HONEY ,himalayan brew  ,500g Glass Bottle Color: Amber Pack of 1,Rs 1499,EA,04090000,18,LEGACY_99,0
+TF-SKU-1216,  artisanal almond biscotti  , artisan leaf,300g Pack of 1 Color: Beige,₹650/-,Pcs,19053100,12,,0
+TF-SKU-1217,EARL GREY BERGAMOT INFUSION ,TEAFIELDS RESERVE,50 Pyramid Bags (125g) Color: Blue Pack of 1,Rs 1499, Nos,09023020,18,,
+TF-SKU-1218,  artisanal almond biscotti  ,HIMALAYAN BREW,300g Pack of 1 Color: Beige,INR 399,Kgs,19053100,5,LEGACY_99, NULL 
+TF-SKU-1219,Organic Wild Forest Honey,HIMALAYAN BREW,500g Glass Bottle Color: Amber Pack of 1,"Rs. 1,499.00",KG,04090000,5,LEGACY_99,0
+TF-SKU-1220, Double Wall Borosilicate Infuser Mug   ,gourmet crumb ,Size: Large 350ml Color: Clear Pack of 2,Rs. 450.00, Nos,70134200,5,1,
+TF-SKU-1221,  assam orthodox black tea  ,TEAFIELDS RESERVE,500 GM - Kraft Pouch - Color: Brown - Pack of 2,"INR 1,250",GM,09024020,12,1,
+TF-SKU-1222,Assam Orthodox Black Tea, artisan leaf,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs. 899.00,PCS,09024020,12,Y,0
+TF-SKU-1223,MASALA CHAI SPICE BLEND ,HIMALAYAN BREW,200g / Glass Jar / Color: Red / Pack of 1,  2100 ,NOS,09109100,5,,
+TF-SKU-1224,DARJEELING FIRST FLUSH LOOSE TEA ,Artisan Leaf,250g | Tin Caddy | Color: Gold | Pack of 1,Rs. 650.00,Gms,09022020,5,LEGACY_99,0
+TF-SKU-1225, Chamomile Honey Herbal Tisane   ,  teafields reserve ,150g Box Color: Yellow Pack of 3,"₹2,100/-",Gms,21069099,12,LEGACY_99,
+TF-SKU-1226,  organic wild forest honey  , artisan leaf,500g Glass Bottle Color: Amber Pack of 1,Rs 899,Pcs,04090000,18,N,MIG_OK
+TF-SKU-1227,ASSAM ORTHODOX BLACK TEA ,TEAFIELDS RESERVE,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  450 ,Gms,09024020,5,LEGACY_99,
+TF-SKU-1228,CAST IRON JAPANESE TEAPOT ,Gourmet Crumb,Size: Medium | 800ml | Color: Matte Black | Pack of 1,  450 ,KG,73239190,5,N,MIG_OK
+TF-SKU-1229,  double wall borosilicate infuser mug  ,Teafields Reserve,Size: Large 350ml Color: Clear Pack of 2,Rs 650,GM,70134200,18,,
+TF-SKU-1230,Double Wall Borosilicate Infuser Mug, artisan leaf,Size: Large 350ml Color: Clear Pack of 2,INR 399,KG,70134200,5,1,0
+TF-SKU-1231, Artisanal Almond Biscotti   , artisan leaf,300g Pack of 1 Color: Beige,"Rs. 2,100.00",Gms,19053100,5,1,MIG_OK
+TF-SKU-1232,  artisanal almond biscotti  , artisan leaf,300g Pack of 1 Color: Beige,"INR 1,499",KG,19053100,5,,MIG_OK
+TF-SKU-1233,  chamomile honey herbal tisane  ,  teafields reserve ,150g Box Color: Yellow Pack of 3,Rs 650,Kgs,21069099,18,LEGACY_99,
+TF-SKU-1234,NILGIRI FROST GREEN TEA ,Himalayan Brew,"100g, Zipper Bag, Color: Green, Pack of 1",Rs 1250,GM,09021090,5,1,MIG_OK
+TF-SKU-1235, Earl Grey Bergamot Infusion   ,Gourmet Crumb,50 Pyramid Bags (125g) Color: Blue Pack of 1,  399 ,PCS,09023020,12,N,0
+TF-SKU-1236,MASALA CHAI SPICE BLEND ,Himalayan Brew,200g / Glass Jar / Color: Red / Pack of 1,Rs 1499,KG,09109100,18,,
+TF-SKU-1237,  double wall borosilicate infuser mug  ,  teafields reserve ,Size: Large 350ml Color: Clear Pack of 2,₹899/-, Nos,70134200,12,1, NULL 
+TF-SKU-1238,Assam Orthodox Black Tea,HIMALAYAN BREW,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  1499 ,EA,09024020,12,1,MIG_OK
+TF-SKU-1239, Earl Grey Bergamot Infusion   ,TEAFIELDS RESERVE,50 Pyramid Bags (125g) Color: Blue Pack of 1,"Rs. 2,100.00",PCS,09023020,5,, NULL 
+TF-SKU-1240,ASSAM ORTHODOX BLACK TEA ,Teafields Reserve,500 GM - Kraft Pouch - Color: Brown - Pack of 2,"INR 1,499",KG,09024020,5,1, NULL 
+TF-SKU-1241, Chamomile Honey Herbal Tisane   ,TEAFIELDS RESERVE,150g Box Color: Yellow Pack of 3,INR 899,pcs ,   ,18,Y, NULL 
+TF-SKU-1242,DARJEELING FIRST FLUSH LOOSE TEA ,TEAFIELDS RESERVE,250g | Tin Caddy | Color: Gold | Pack of 1,,Kgs,09022020,5,,0
+TF-SKU-1243,  double wall borosilicate infuser mug  ,  teafields reserve ,Size: Large 350ml Color: Clear Pack of 2,₹399/-,KG,70134200,5,,0
+TF-SKU-1244,  nilgiri frost green tea  ,Teafields Reserve,"100g, Zipper Bag, Color: Green, Pack of 1",INR 450,NOS,09021090,12,LEGACY_99,
+TF-SKU-1245,  masala chai spice blend  ,TEAFIELDS RESERVE,200g / Glass Jar / Color: Red / Pack of 1,  1499 ,Kgs,09109100,5,N,MIG_OK
+TF-SKU-1246,ASSAM ORTHODOX BLACK TEA ,gourmet crumb ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs. 899.00,KG,09024020,5,LEGACY_99,0
+TF-SKU-1247, Cast Iron Japanese Teapot   ,Himalayan Brew,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 399,Pcs,73239190,18,Y,MIG_OK
+TF-SKU-1248,CHAMOMILE HONEY HERBAL TISANE ,gourmet crumb ,150g Box Color: Yellow Pack of 3,Rs. 450.00,PCS,21069099,18,Y, NULL 
+TF-SKU-1249,EARL GREY BERGAMOT INFUSION ,,50 Pyramid Bags (125g) Color: Blue Pack of 1,Rs 1499,pcs ,09023020,12,, NULL 
+TF-SKU-1250,ARTISANAL ALMOND BISCOTTI ,himalayan brew  ,300g Pack of 1 Color: Beige,  450 ,Gms,,18,Y,MIG_OK
+TF-SKU-1251,CAST IRON JAPANESE TEAPOT ,  teafields reserve ,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 399,PCS,73239190,12,N, NULL 
+TF-SKU-1252,DARJEELING FIRST FLUSH LOOSE TEA ,TEAFIELDS RESERVE,250g | Tin Caddy | Color: Gold | Pack of 1,"₹1,250/-",NOS,09022020,12,N,MIG_OK
+TF-SKU-1253,  assam orthodox black tea  ,Artisan Leaf,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs 399,Pcs,09024020,12,,MIG_OK
+TF-SKU-1254,Darjeeling First Flush Loose Tea,TEAFIELDS RESERVE,250g | Tin Caddy | Color: Gold | Pack of 1,Rs 899,Pcs,09022020,5,LEGACY_99, NULL 
+TF-SKU-1255,  darjeeling first flush loose tea  , artisan leaf,250g | Tin Caddy | Color: Gold | Pack of 1,Rs. 450.00,GM,09022020,18,,0
+TF-SKU-1256,CHAMOMILE HONEY HERBAL TISANE ,HIMALAYAN BREW,150g Box Color: Yellow Pack of 3,Rs. 399.00,GM,21069099,18,Y,0
+TF-SKU-1257,  masala chai spice blend  ,  teafields reserve ,200g / Glass Jar / Color: Red / Pack of 1,₹899/-,Kgs,09109100,5,LEGACY_99,
+TF-SKU-1258, Darjeeling First Flush Loose Tea   ,gourmet crumb ,250g | Tin Caddy | Color: Gold | Pack of 1,Rs 650, Nos,09022020,5,LEGACY_99,0
+TF-SKU-1259,  nilgiri frost green tea  ,Teafields Reserve,"100g, Zipper Bag, Color: Green, Pack of 1","Rs. 1,250.00",Kgs,09021090,5,,MIG_OK
+TF-SKU-1260,ASSAM ORTHODOX BLACK TEA ,Himalayan Brew,500 GM - Kraft Pouch - Color: Brown - Pack of 2,INR 250,KG,09024020,5,Y,0
+TF-SKU-1261,Artisanal Almond Biscotti,HIMALAYAN BREW,300g Pack of 1 Color: Beige,Rs 399,NOS,19053100,18,, NULL 
+TF-SKU-1262,  organic wild forest honey  ,TEAFIELDS RESERVE,500g Glass Bottle Color: Amber Pack of 1,  899 ,Kgs,04090000,12,,MIG_OK
+TF-SKU-1263,  masala chai spice blend  ,TEAFIELDS RESERVE,200g / Glass Jar / Color: Red / Pack of 1,INR 399, Nos,09109100,12,1,
+TF-SKU-1264, Assam Orthodox Black Tea   ,Himalayan Brew,500 GM - Kraft Pouch - Color: Brown - Pack of 2,"Rs. 2,100.00",Pcs,09024020,5,1, NULL 
+TF-SKU-1265, Masala Chai Spice Blend   ,Himalayan Brew,200g / Glass Jar / Color: Red / Pack of 1,"₹1,499/-",KG,09109100,5,Y,
+TF-SKU-1266,DOUBLE WALL BOROSILICATE INFUSER MUG ,  teafields reserve ,Size: Large 350ml Color: Clear Pack of 2,Rs. 450.00,EA,70134200,5,N,
+TF-SKU-1267,  chamomile honey herbal tisane  ,himalayan brew  ,150g Box Color: Yellow Pack of 3,Rs. 399.00,EA,21069099,18,,0
+TF-SKU-1268, Assam Orthodox Black Tea   , artisan leaf,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  1499 , Nos,   ,5,,
+TF-SKU-1269, Nilgiri Frost Green Tea   ,TEAFIELDS RESERVE,"100g, Zipper Bag, Color: Green, Pack of 1","Rs. 2,100.00",Gms,09021090,18,LEGACY_99,0
+TF-SKU-1270,Earl Grey Bergamot Infusion,Gourmet Crumb,50 Pyramid Bags (125g) Color: Blue Pack of 1,INR 399,pcs ,09023020,5,LEGACY_99,0
+TF-SKU-1271,  artisanal almond biscotti  ,HIMALAYAN BREW,300g Pack of 1 Color: Beige,Rs 2100,GM,19053100,12,,MIG_OK
+TF-SKU-1272,  nilgiri frost green tea  ,Himalayan Brew,"100g, Zipper Bag, Color: Green, Pack of 1",  250 ,GM,,12,LEGACY_99,0
+TF-SKU-1273,  nilgiri frost green tea  ,Himalayan Brew,"100g, Zipper Bag, Color: Green, Pack of 1",INR 250,Gms,09021090,12,1,0
+TF-SKU-1274,NILGIRI FROST GREEN TEA ,HIMALAYAN BREW,"100g, Zipper Bag, Color: Green, Pack of 1",₹250/-,Gms,09021090,18,N,0
+TF-SKU-1275, Double Wall Borosilicate Infuser Mug   ,Teafields Reserve,Size: Large 350ml Color: Clear Pack of 2,Rs. 650.00,GM,70134200,12,Y,MIG_OK
+TF-SKU-1276,ORGANIC WILD FOREST HONEY ,HIMALAYAN BREW,500g Glass Bottle Color: Amber Pack of 1,"INR 1,250",Gms,04090000,18,N, NULL 
+TF-SKU-1277, Artisanal Almond Biscotti   ,HIMALAYAN BREW,300g Pack of 1 Color: Beige,"₹1,499/-",KG,19053100,12,N,0
+TF-SKU-1278,Cast Iron Japanese Teapot,TEAFIELDS RESERVE,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 1250,NOS,73239190,12,1,MIG_OK
+TF-SKU-1279,NILGIRI FROST GREEN TEA ,gourmet crumb ,"100g, Zipper Bag, Color: Green, Pack of 1",₹250/-,Gms,09021090,5,LEGACY_99, NULL 
+TF-SKU-1280,DOUBLE WALL BOROSILICATE INFUSER MUG ,  teafields reserve ,Size: Large 350ml Color: Clear Pack of 2,"Rs. 1,250.00",Kgs,70134200,12,Y,MIG_OK
+TF-SKU-1281,MASALA CHAI SPICE BLEND ,HIMALAYAN BREW,200g / Glass Jar / Color: Red / Pack of 1,Rs. 399.00,pcs ,09109100,12,,0
+TF-SKU-1282,Cast Iron Japanese Teapot,HIMALAYAN BREW,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 399,EA,73239190,5,, NULL 
+TF-SKU-1283, Darjeeling First Flush Loose Tea   ,,250g | Tin Caddy | Color: Gold | Pack of 1,  399 ,NOS,09022020,18,Y, NULL 
+TF-SKU-1284,Chamomile Honey Herbal Tisane,Artisan Leaf,150g Box Color: Yellow Pack of 3,  450 ,NOS,21069099,5,Y,MIG_OK
+TF-SKU-1285,MASALA CHAI SPICE BLEND ,Gourmet Crumb,200g / Glass Jar / Color: Red / Pack of 1,₹899/-,EA,09109100,5,Y,
+TF-SKU-1286,Organic Wild Forest Honey,HIMALAYAN BREW,500g Glass Bottle Color: Amber Pack of 1,Rs 899, Nos,,5,Y, NULL 
+TF-SKU-1287,MASALA CHAI SPICE BLEND ,  teafields reserve ,200g / Glass Jar / Color: Red / Pack of 1,  399 , Nos,09109100,12,1, NULL 
+TF-SKU-1288,Artisanal Almond Biscotti,Artisan Leaf,300g Pack of 1 Color: Beige,  2100 , Nos,19053100,12,N,MIG_OK
+TF-SKU-1289,  organic wild forest honey  ,  teafields reserve ,500g Glass Bottle Color: Amber Pack of 1,  1250 ,Gms,04090000,5,LEGACY_99, NULL 
+TF-SKU-1290,Cast Iron Japanese Teapot, artisan leaf,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs. 650.00,pcs ,73239190,18,Y,0
+TF-SKU-1291,Assam Orthodox Black Tea,TEAFIELDS RESERVE,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  650 ,Pcs,09024020,18,,0
+TF-SKU-1292, Nilgiri Frost Green Tea   ,  teafields reserve ,"100g, Zipper Bag, Color: Green, Pack of 1","₹1,499/-",GM,09021090,12,Y,
+TF-SKU-1293,Assam Orthodox Black Tea,gourmet crumb ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs 399,Pcs,09024020,12,LEGACY_99,MIG_OK
+TF-SKU-1294, Cast Iron Japanese Teapot   , artisan leaf,Size: Medium | 800ml | Color: Matte Black | Pack of 1,"₹2,100/-",pcs ,73239190,5,LEGACY_99,
+TF-SKU-1295,Darjeeling First Flush Loose Tea,HIMALAYAN BREW,250g | Tin Caddy | Color: Gold | Pack of 1,₹250/-,Kgs,09022020,5,1,MIG_OK
+TF-SKU-1296, Earl Grey Bergamot Infusion   ,  teafields reserve ,50 Pyramid Bags (125g) Color: Blue Pack of 1,  650 ,Kgs,09023020,12,, NULL 
+TF-SKU-1297,Masala Chai Spice Blend,Artisan Leaf,200g / Glass Jar / Color: Red / Pack of 1,Rs 1250,NOS,09109100,5,1,
+TF-SKU-1298,  nilgiri frost green tea  ,Himalayan Brew,"100g, Zipper Bag, Color: Green, Pack of 1",Rs. 650.00,Kgs,09021090,18,N,MIG_OK
+TF-SKU-1299,Chamomile Honey Herbal Tisane,  teafields reserve ,150g Box Color: Yellow Pack of 3,Rs 650, Nos,21069099,5,,MIG_OK
+TF-SKU-1300,CHAMOMILE HONEY HERBAL TISANE ,himalayan brew  ,150g Box Color: Yellow Pack of 3,  399 ,PCS,21069099,5,LEGACY_99,0
+TF-SKU-1301,MASALA CHAI SPICE BLEND ,himalayan brew  ,200g / Glass Jar / Color: Red / Pack of 1,Rs. 250.00, Nos,09109100,5,N, NULL 
+TF-SKU-1302, Masala Chai Spice Blend   ,himalayan brew  ,200g / Glass Jar / Color: Red / Pack of 1,  899 ,Kgs,09109100,12,1,0
+TF-SKU-1303, Double Wall Borosilicate Infuser Mug   ,gourmet crumb ,Size: Large 350ml Color: Clear Pack of 2,,Kgs,70134200,18,LEGACY_99,MIG_OK
+TF-SKU-1304,  earl grey bergamot infusion  ,HIMALAYAN BREW,50 Pyramid Bags (125g) Color: Blue Pack of 1,"₹1,250/-",KG,09023020,5,N,0
+TF-SKU-1305,Darjeeling First Flush Loose Tea,TEAFIELDS RESERVE,250g | Tin Caddy | Color: Gold | Pack of 1,"₹2,100/-",pcs ,09022020,12,, NULL 
+TF-SKU-1306,ORGANIC WILD FOREST HONEY ,Himalayan Brew,500g Glass Bottle Color: Amber Pack of 1,"₹2,100/-",GM,04090000,12,N,0
+TF-SKU-1307,  earl grey bergamot infusion  ,himalayan brew  ,50 Pyramid Bags (125g) Color: Blue Pack of 1,₹450/-,Pcs,09023020,5,1,0
+TF-SKU-1308,Earl Grey Bergamot Infusion,HIMALAYAN BREW,50 Pyramid Bags (125g) Color: Blue Pack of 1,Rs. 899.00, Nos,09023020,5,LEGACY_99, NULL 
+TF-SKU-1309,DOUBLE WALL BOROSILICATE INFUSER MUG ,Artisan Leaf,Size: Large 350ml Color: Clear Pack of 2,"INR 1,499",NOS,70134200,5,1,
+TF-SKU-1310,Organic Wild Forest Honey,TEAFIELDS RESERVE,500g Glass Bottle Color: Amber Pack of 1,"INR 2,100",Kgs,04090000,18,Y, NULL 
+TF-SKU-1311, Double Wall Borosilicate Infuser Mug   ,TEAFIELDS RESERVE,Size: Large 350ml Color: Clear Pack of 2,Rs. 450.00,NOS,70134200,18,,
+TF-SKU-1312,Cast Iron Japanese Teapot,Artisan Leaf,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs. 650.00,Kgs,   ,18,N, NULL 
+TF-SKU-1313,DARJEELING FIRST FLUSH LOOSE TEA ,HIMALAYAN BREW,250g | Tin Caddy | Color: Gold | Pack of 1,Rs 399,KG,09022020,5,Y, NULL 
+TF-SKU-1314, Earl Grey Bergamot Infusion   ,Gourmet Crumb,50 Pyramid Bags (125g) Color: Blue Pack of 1,"INR 1,250",Kgs,09023020,12,1,0
+TF-SKU-1315,Nilgiri Frost Green Tea,   ,"100g, Zipper Bag, Color: Green, Pack of 1",Rs. 450.00,Gms,09021090,18,N, NULL 
+TF-SKU-1316,  chamomile honey herbal tisane  ,himalayan brew  ,150g Box Color: Yellow Pack of 3,Rs. 250.00,Pcs,21069099,18,Y, NULL 
+TF-SKU-1317,Assam Orthodox Black Tea,  teafields reserve ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,"INR 2,100",PCS,09024020,12,, NULL 
+TF-SKU-1318, Artisanal Almond Biscotti   ,TEAFIELDS RESERVE,300g Pack of 1 Color: Beige,Rs 399,Pcs,19053100,12,Y, NULL 
+TF-SKU-1319,DOUBLE WALL BOROSILICATE INFUSER MUG ,himalayan brew  ,Size: Large 350ml Color: Clear Pack of 2,  650 ,KG,70134200,5,Y,
+TF-SKU-1320,Masala Chai Spice Blend,Teafields Reserve,200g / Glass Jar / Color: Red / Pack of 1,  399 ,NOS,,5,LEGACY_99, NULL 
+TF-SKU-1321, Assam Orthodox Black Tea   , artisan leaf,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs. 899.00,Pcs,09024020,5,Y,MIG_OK
+TF-SKU-1322, Chamomile Honey Herbal Tisane   ,  teafields reserve ,150g Box Color: Yellow Pack of 3,,NOS,21069099,18,N,MIG_OK
+TF-SKU-1323,Chamomile Honey Herbal Tisane,himalayan brew  ,150g Box Color: Yellow Pack of 3,₹399/-,NOS,21069099,5,,
+TF-SKU-1324, Double Wall Borosilicate Infuser Mug   , artisan leaf,Size: Large 350ml Color: Clear Pack of 2,Rs. 450.00,NOS,70134200,5,,
+TF-SKU-1325,Organic Wild Forest Honey,Artisan Leaf,500g Glass Bottle Color: Amber Pack of 1,INR 250, Nos,04090000,12,Y,
+TF-SKU-1326,  double wall borosilicate infuser mug  ,HIMALAYAN BREW,Size: Large 350ml Color: Clear Pack of 2,₹650/-,GM,   ,18,LEGACY_99, NULL 
+TF-SKU-1327,CAST IRON JAPANESE TEAPOT ,Artisan Leaf,Size: Medium | 800ml | Color: Matte Black | Pack of 1,,NOS,73239190,18,,
+TF-SKU-1328,  nilgiri frost green tea  ,HIMALAYAN BREW,"100g, Zipper Bag, Color: Green, Pack of 1",INR 899,GM,09021090,18,,
+TF-SKU-1329,  masala chai spice blend  ,gourmet crumb ,200g / Glass Jar / Color: Red / Pack of 1,"Rs. 2,100.00", Nos,09109100,18,Y, NULL 
+TF-SKU-1330,Cast Iron Japanese Teapot,,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 899,EA,73239190,18,,MIG_OK
+TF-SKU-1331,  chamomile honey herbal tisane  , artisan leaf,150g Box Color: Yellow Pack of 3,"₹2,100/-", Nos,21069099,5,Y,0
+TF-SKU-1332, Darjeeling First Flush Loose Tea   ,himalayan brew  ,250g | Tin Caddy | Color: Gold | Pack of 1,"Rs. 1,250.00",NOS,09022020,12,N,
+TF-SKU-1333, Assam Orthodox Black Tea   ,Himalayan Brew,500 GM - Kraft Pouch - Color: Brown - Pack of 2,"INR 1,499",Kgs,09024020,5,, NULL 
+TF-SKU-1334,  organic wild forest honey  , artisan leaf,500g Glass Bottle Color: Amber Pack of 1,Rs. 450.00,GM,04090000,18,Y,
+TF-SKU-1335,Organic Wild Forest Honey,TEAFIELDS RESERVE,500g Glass Bottle Color: Amber Pack of 1,INR 450,Pcs,04090000,12,LEGACY_99,MIG_OK
+TF-SKU-1336,Artisanal Almond Biscotti,gourmet crumb ,300g Pack of 1 Color: Beige,₹650/-,KG,19053100,12,N,0
+TF-SKU-1337, Cast Iron Japanese Teapot   ,Gourmet Crumb,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 650,KG,73239190,18,1,0
+TF-SKU-1338, Nilgiri Frost Green Tea   ,HIMALAYAN BREW,"100g, Zipper Bag, Color: Green, Pack of 1",Rs 1499,KG,09021090,12,Y, NULL 
+TF-SKU-1339,Darjeeling First Flush Loose Tea,Teafields Reserve,250g | Tin Caddy | Color: Gold | Pack of 1,₹450/-,NOS,09022020,5,1,0
+TF-SKU-1340,  artisanal almond biscotti  , artisan leaf,300g Pack of 1 Color: Beige,Rs 650,pcs ,19053100,5,LEGACY_99,MIG_OK
+TF-SKU-1341,Darjeeling First Flush Loose Tea,HIMALAYAN BREW,250g | Tin Caddy | Color: Gold | Pack of 1,,KG,09022020,5,LEGACY_99,
+TF-SKU-1342, Masala Chai Spice Blend   ,Gourmet Crumb,200g / Glass Jar / Color: Red / Pack of 1,INR 650,KG,09109100,12,N, NULL 
+TF-SKU-1343,NILGIRI FROST GREEN TEA ,  teafields reserve ,"100g, Zipper Bag, Color: Green, Pack of 1","₹1,499/-",NOS,09021090,5,LEGACY_99,MIG_OK
+TF-SKU-1344, Darjeeling First Flush Loose Tea   ,TEAFIELDS RESERVE,250g | Tin Caddy | Color: Gold | Pack of 1,Rs 250,KG,,12,LEGACY_99,MIG_OK
+TF-SKU-1345, Assam Orthodox Black Tea   ,TEAFIELDS RESERVE,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs 450,pcs ,09024020,5,1,0
+TF-SKU-1346, Masala Chai Spice Blend   ,himalayan brew  ,200g / Glass Jar / Color: Red / Pack of 1,"Rs. 2,100.00",Pcs,09109100,18,1,
+TF-SKU-1347,MASALA CHAI SPICE BLEND ,HIMALAYAN BREW,200g / Glass Jar / Color: Red / Pack of 1,Rs 399,KG,09109100,5,LEGACY_99,MIG_OK
+TF-SKU-1348,Artisanal Almond Biscotti,himalayan brew  ,300g Pack of 1 Color: Beige,Rs. 650.00,Pcs,19053100,5,LEGACY_99, NULL 
+TF-SKU-1349,ASSAM ORTHODOX BLACK TEA ,Himalayan Brew,500 GM - Kraft Pouch - Color: Brown - Pack of 2,"INR 1,499",GM,09024020,18,, NULL 
+TF-SKU-1350,  nilgiri frost green tea  ,HIMALAYAN BREW,"100g, Zipper Bag, Color: Green, Pack of 1",₹250/-,GM,,5,LEGACY_99,0
+TF-SKU-1351,Earl Grey Bergamot Infusion,Artisan Leaf,50 Pyramid Bags (125g) Color: Blue Pack of 1,Rs. 250.00,GM,09023020,5,LEGACY_99, NULL 
+TF-SKU-1352,  organic wild forest honey  ,  teafields reserve ,500g Glass Bottle Color: Amber Pack of 1,₹399/-,Gms,04090000,5,1,
+TF-SKU-1353,Cast Iron Japanese Teapot,Teafields Reserve,Size: Medium | 800ml | Color: Matte Black | Pack of 1,  650 ,GM,73239190,12,N,MIG_OK
+TF-SKU-1354,  chamomile honey herbal tisane  ,Gourmet Crumb,150g Box Color: Yellow Pack of 3,,Gms,21069099,12,LEGACY_99, NULL 
+TF-SKU-1355,EARL GREY BERGAMOT INFUSION ,HIMALAYAN BREW,50 Pyramid Bags (125g) Color: Blue Pack of 1,INR 450,Gms,09023020,12,N, NULL 
+TF-SKU-1356,  nilgiri frost green tea  ,Gourmet Crumb,"100g, Zipper Bag, Color: Green, Pack of 1",Rs. 399.00,KG,09021090,5,N,
+TF-SKU-1357, Chamomile Honey Herbal Tisane   ,Himalayan Brew,150g Box Color: Yellow Pack of 3,₹399/-, Nos,21069099,12,1,MIG_OK
+TF-SKU-1358,ORGANIC WILD FOREST HONEY ,HIMALAYAN BREW,500g Glass Bottle Color: Amber Pack of 1,"₹1,499/-",EA,04090000,5,,MIG_OK
+TF-SKU-1359,CHAMOMILE HONEY HERBAL TISANE ,HIMALAYAN BREW,150g Box Color: Yellow Pack of 3,"₹2,100/-", Nos,21069099,18,Y,0
+TF-SKU-1360,  organic wild forest honey  ,TEAFIELDS RESERVE,500g Glass Bottle Color: Amber Pack of 1,Rs. 650.00,Pcs,04090000,5,LEGACY_99, NULL 
+TF-SKU-1361,Organic Wild Forest Honey,Himalayan Brew,500g Glass Bottle Color: Amber Pack of 1,Rs 899, Nos,04090000,18,N,MIG_OK
+TF-SKU-1362,CAST IRON JAPANESE TEAPOT ,gourmet crumb ,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 899,GM,73239190,5,,MIG_OK
+TF-SKU-1363,  artisanal almond biscotti  ,gourmet crumb ,300g Pack of 1 Color: Beige,INR 450,Gms,19053100,18,N,
+TF-SKU-1364,  chamomile honey herbal tisane  , artisan leaf,150g Box Color: Yellow Pack of 3,Rs. 899.00,EA,21069099,18,1,
+TF-SKU-1365,Double Wall Borosilicate Infuser Mug,Teafields Reserve,Size: Large 350ml Color: Clear Pack of 2,Rs 1250,KG,70134200,18,1,0
+TF-SKU-1366,Cast Iron Japanese Teapot,  teafields reserve ,Size: Medium | 800ml | Color: Matte Black | Pack of 1,"INR 1,499",GM,73239190,12,1,MIG_OK
+TF-SKU-1367,Double Wall Borosilicate Infuser Mug,Teafields Reserve,Size: Large 350ml Color: Clear Pack of 2,INR 450,Pcs,70134200,18,1,0
+TF-SKU-1368,NILGIRI FROST GREEN TEA ,gourmet crumb ,"100g, Zipper Bag, Color: Green, Pack of 1",  399 ,Kgs,09021090,18,Y,
+TF-SKU-1369,Double Wall Borosilicate Infuser Mug,TEAFIELDS RESERVE,Size: Large 350ml Color: Clear Pack of 2,"Rs. 1,499.00",NOS,70134200,18,LEGACY_99,0
+TF-SKU-1370,  nilgiri frost green tea  ,TEAFIELDS RESERVE,"100g, Zipper Bag, Color: Green, Pack of 1",  450 ,Gms,,18,Y,MIG_OK
+TF-SKU-1371,ASSAM ORTHODOX BLACK TEA , artisan leaf,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  450 ,Gms,09024020,5,LEGACY_99,0
+TF-SKU-1372, Organic Wild Forest Honey   ,HIMALAYAN BREW,500g Glass Bottle Color: Amber Pack of 1,  399 ,NOS,04090000,5,Y,0
+TF-SKU-1373,Artisanal Almond Biscotti,gourmet crumb ,300g Pack of 1 Color: Beige,Rs 2100,PCS,19053100,18,LEGACY_99, NULL 
+TF-SKU-1374,Assam Orthodox Black Tea,gourmet crumb ,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  250 ,GM,09024020,12,1, NULL 
+TF-SKU-1375,Artisanal Almond Biscotti, artisan leaf,300g Pack of 1 Color: Beige,Rs 1499,Pcs,19053100,12,N,MIG_OK
+TF-SKU-1376,DOUBLE WALL BOROSILICATE INFUSER MUG ,  teafields reserve ,Size: Large 350ml Color: Clear Pack of 2,"Rs. 1,499.00",PCS,70134200,18,LEGACY_99, NULL 
+TF-SKU-1377,  artisanal almond biscotti  ,Himalayan Brew,300g Pack of 1 Color: Beige,"Rs. 1,250.00",NOS,19053100,12,LEGACY_99,MIG_OK
+TF-SKU-1378,Earl Grey Bergamot Infusion,gourmet crumb ,50 Pyramid Bags (125g) Color: Blue Pack of 1,  1499 ,GM,09023020,18,,0
+TF-SKU-1379,Chamomile Honey Herbal Tisane,himalayan brew  ,150g Box Color: Yellow Pack of 3,"Rs. 1,499.00",EA,21069099,12,N, NULL 
+TF-SKU-1380,Masala Chai Spice Blend,Gourmet Crumb,200g / Glass Jar / Color: Red / Pack of 1,Rs. 250.00,Pcs,09109100,5,,
+TF-SKU-1381,  assam orthodox black tea  ,HIMALAYAN BREW,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  1499 ,Gms,,18,LEGACY_99,MIG_OK
+TF-SKU-1382,  organic wild forest honey  ,TEAFIELDS RESERVE,500g Glass Bottle Color: Amber Pack of 1,,GM,04090000,12,N, NULL 
+TF-SKU-1383,ORGANIC WILD FOREST HONEY ,Teafields Reserve,500g Glass Bottle Color: Amber Pack of 1,Rs. 250.00,KG,04090000,12,1,
+TF-SKU-1384,CAST IRON JAPANESE TEAPOT ,  teafields reserve ,Size: Medium | 800ml | Color: Matte Black | Pack of 1,Rs 899,Gms,73239190,12,1,MIG_OK
+TF-SKU-1385,MASALA CHAI SPICE BLEND ,Artisan Leaf,200g / Glass Jar / Color: Red / Pack of 1,Rs 899,Pcs,09109100,18,Y,MIG_OK
+TF-SKU-1001,  assam orthodox black tea  ,Himalayan Brew,500 GM - Kraft Pouch - Color: Brown - Pack of 2,Rs 399,Pcs,09024020,18,, NULL 
+TF-SKU-1002,  darjeeling first flush loose tea  ,Gourmet Crumb,250g | Tin Caddy | Color: Gold | Pack of 1,Rs 650,pcs ,09022020,5,,MIG_OK
+TF-SKU-1003,DARJEELING FIRST FLUSH LOOSE TEA ,HIMALAYAN BREW,250g | Tin Caddy | Color: Gold | Pack of 1,₹650/-,Pcs,09022020,5,, NULL 
+TF-SKU-1004, Chamomile Honey Herbal Tisane   ,Teafields Reserve,150g Box Color: Yellow Pack of 3,  399 ,Pcs,21069099,18,1,MIG_OK
+TF-SKU-1005,ORGANIC WILD FOREST HONEY ,Teafields Reserve,500g Glass Bottle Color: Amber Pack of 1,INR 899,Pcs,04090000,12,1,
+TF-SKU-1006,CHAMOMILE HONEY HERBAL TISANE ,Himalayan Brew,150g Box Color: Yellow Pack of 3,INR 399,GM,21069099,18,N,0
+TF-SKU-1007,Double Wall Borosilicate Infuser Mug,Gourmet Crumb,Size: Large 350ml Color: Clear Pack of 2,"Rs. 1,250.00",EA,70134200,5,1,
+TF-SKU-1008,  earl grey bergamot infusion  ,gourmet crumb ,50 Pyramid Bags (125g) Color: Blue Pack of 1,  1250 ,pcs ,09023020,18,,0
+TF-SKU-1009,EARL GREY BERGAMOT INFUSION ,Gourmet Crumb,50 Pyramid Bags (125g) Color: Blue Pack of 1,  1499 ,Kgs,09023020,5,N,
+TF-SKU-1010,  assam orthodox black tea  ,TEAFIELDS RESERVE,500 GM - Kraft Pouch - Color: Brown - Pack of 2,  1499 ,pcs ,09024020,18,,MIG_OK
+TF-SKU-1011,  artisanal almond biscotti  ,  teafields reserve ,1kg | Bulk Sack | Color: White | Pack of 5,"Rs. 9,999.00",Pcs,19053100,12,,0
+TF-SKU-1012,  double wall borosilicate infuser mug  ,himalayan brew  ,1kg | Bulk Sack | Color: White | Pack of 5,"Rs. 9,999.00",KG,70134200,18,LEGACY_99,0
+TF-SKU-1013, Nilgiri Frost Green Tea   ,Gourmet Crumb,1kg | Bulk Sack | Color: White | Pack of 5,"Rs. 9,999.00",PCS,09021090,5,1,MIG_OK
+TF-SKU-1014,  masala chai spice blend  ,gourmet crumb ,1kg | Bulk Sack | Color: White | Pack of 5,"Rs. 9,999.00",GM,09109100,5,N,
+TF-SKU-1015,ARTISANAL ALMOND BISCOTTI ,gourmet crumb ,1kg | Bulk Sack | Color: White | Pack of 5,"Rs. 9,999.00",KG,19053100,12,1,
+TF-SKU-1016,Artisanal Almond Biscotti,Himalayan Brew,1kg | Bulk Sack | Color: White | Pack of 5,"Rs. 9,999.00",Pcs,,18,Y,0
+TF-SKU-1017,  assam orthodox black tea  ,  teafields reserve ,1kg | Bulk Sack | Color: White | Pack of 5,"Rs. 9,999.00",GM,09024020,5,LEGACY_99,
+TF-SKU-1018,Masala Chai Spice Blend,Himalayan Brew,1kg | Bulk Sack | Color: White | Pack of 5,"Rs. 9,999.00", Nos,09109100,18,Y, NULL 
+TF-SKU-1019,Darjeeling First Flush Loose Tea,  teafields reserve ,1kg | Bulk Sack | Color: White | Pack of 5,"Rs. 9,999.00",pcs ,09022020,5,1,
+TF-SKU-1020,  masala chai spice blend  ,Gourmet Crumb,1kg | Bulk Sack | Color: White | Pack of 5,"Rs. 9,999.00",NOS,09109100,12,,
+,Orphan Tea Item Without Code,Teafields Reserve,250g,Rs. 450,PCS,09022020,5,N,
+TF-BAD-001,   ,Teafields Reserve,250g,Rs. 450,PCS,09022020,5,N,
+TF-BAD-002,Corrupt Negative Price Tea,Himalayan Brew,100g,Rs. -450.00,PCS,09021090,5,N,
+TF-BAD-003,Zero Price Promo Glitch,Himalayan Brew,100g,INR 0.00,PCS,09021090,5,N,
+TF-BAD-004,Unparseable Text MRP Item,Artisan Leaf,500g,ASK MANAGER,KG,09024020,5,N,
+TF-BAD-005,SQL Injection / Corrupt Row ); DROP TABLE--,,???,NaN,UNKNOWN_UOM,INVALID,99,ERR,ERR
+TF-BAD-006,Legacy Corrupt Record #6,Teafields Reserve,Corrupt spec string,,PCS,09022020,5,ERR,
+TF-BAD-007,,Teafields Reserve,Corrupt spec string,TBD,PCS,09022020,5,ERR,
+TF-BAD-008,Legacy Corrupt Record #8,Teafields Reserve,Corrupt spec string,TBD,PCS,09022020,5,ERR,
+TF-BAD-009,,Teafields Reserve,Corrupt spec string,,PCS,09022020,5,ERR,
+TF-BAD-010,Legacy Corrupt Record #10,Teafields Reserve,Corrupt spec string,TBD,PCS,09022020,5,ERR,
+TF-BAD-011,,Teafields Reserve,Corrupt spec string,TBD,PCS,09022020,5,ERR,
+TF-BAD-012,Legacy Corrupt Record #12,Teafields Reserve,Corrupt spec string,,PCS,09022020,5,ERR,
+TF-BAD-013,,Teafields Reserve,Corrupt spec string,TBD,PCS,09022020,5,ERR,
+TF-BAD-014,Legacy Corrupt Record #14,Teafields Reserve,Corrupt spec string,TBD,PCS,09022020,5,ERR,
+TF-BAD-015,,Teafields Reserve,Corrupt spec string,,PCS,09022020,5,ERR,
